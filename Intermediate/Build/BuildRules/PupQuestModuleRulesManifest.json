@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\sands\\OneDrive\\Skrivebord\\PupQuest-main\\PupQuest-main\\PupQuest\\Source\\PupQuest\\PupQuest.Build.cs",
+		"C:\\Users\\sands\\OneDrive\\Skrivebord\\PupQuest-main\\PupQuest-main\\PupQuest\\Source\\PupQuest.Target.cs",
+		"C:\\Users\\sands\\OneDrive\\Skrivebord\\PupQuest-main\\PupQuest-main\\PupQuest\\Source\\PupQuestEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

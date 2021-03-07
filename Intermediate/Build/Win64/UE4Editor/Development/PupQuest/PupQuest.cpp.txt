@@ -1,0 +1,2 @@
+C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\Definitions.PupQuest.h
+C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Source\PupQuest\PupQuest.h

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PupQuest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\PupQuestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\BaseCharacter.cpp.obj"
+"C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\PupQuest.cpp.obj"
+"C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\BaseCharacter.gen.cpp.obj"
+"C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\PupQuest.init.gen.cpp.obj"
+"C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\Default.rc2.res"
+/OUT:"C:\Users\sands\OneDrive\Skrivebord\PupQuest-main\PupQuest-main\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\UE4Editor-PupQuest.lib"
+/INCLUDE:IMPLEMENT_MODULE_PupQuest

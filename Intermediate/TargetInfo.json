@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PupQuest",
+			"Path": "C:\\Users\\sands\\OneDrive\\Skrivebord\\PupQuest-main\\PupQuest-main\\PupQuest\\Source\\PupQuest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PupQuestEditor",
+			"Path": "C:\\Users\\sands\\OneDrive\\Skrivebord\\PupQuest-main\\PupQuest-main\\PupQuest\\Source\\PupQuestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PupQuest-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\spillPog\Unreal Spell\PupQuest\PupQuest\PupQuest\Intermediate\Build\Win64\PupQuestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\spillPog\Unreal Spell\PupQuest\PupQuest\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\BaseCharacter.cpp.obj"
+"D:\spillPog\Unreal Spell\PupQuest\PupQuest\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\PupQuest.cpp.obj"
+"D:\spillPog\Unreal Spell\PupQuest\PupQuest\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\BaseCharacter.gen.cpp.obj"
+"D:\spillPog\Unreal Spell\PupQuest\PupQuest\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\PupQuest.init.gen.cpp.obj"
+"D:\spillPog\Unreal Spell\PupQuest\PupQuest\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\Default.rc2.res"
+/OUT:"D:\spillPog\Unreal Spell\PupQuest\PupQuest\PupQuest\Intermediate\Build\Win64\UE4Editor\Development\PupQuest\UE4Editor-PupQuest-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_PupQuest
